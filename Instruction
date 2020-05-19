@@ -1,0 +1,21 @@
+Hello everyone.
+This is a project that is used as Face Recognition by training out own model.
+Prerequities: ** Python libraries : keras, cv2, numpy ** should be pre installed on the base system.
+I'm using jupyter notebook for creating the model and face detection.
+
+We will be using MobileNet, which is an architecture suitable for mobile and embedded based vision applications where there is a lack of computing power, for facial recognition.
+We will be also using VGG16, which is a convolutional neural network model for classification and detection of objects.
+   ** To detect the face **
+    
+1) Create a file named "Face Recognition" and copy paste from Face Recognition.ipynb then save.
+2) Use " SHIFT + ENTER " to move to next cell in the jupyter notebook.
+3) Firstly we collect our dataset, but you can download the dataset from the internet, but I'm collecting it using python code usign cv2 and numpy.
+4) After collection of dataset, divide the dataset into train and validation set for training and testing the dataset.
+5) Then we load the model and do further precedings as mentioned on the top of the code.
+
+Although both the models MobileNet and VGG16 are good but VGG16 is much better than MobileNet and powerful.
+This suggestion is just to get better prediction.
+Better accuracy and prediction based on the network and the architecture used for creating the model.
+
+
+I would like to Thank Mr. Vimal Daga sir for this Intresting task.
