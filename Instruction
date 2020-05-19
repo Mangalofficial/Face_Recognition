@@ -15,7 +15,7 @@ We will be also using VGG16, which is a convolutional neural network model for c
 
 Although both the models MobileNet and VGG16 are good but VGG16 is much better than MobileNet and powerful.
 This suggestion is just to get better prediction.
-Better accuracy and prediction based on the network and the architecture used for creating the model.
+Better accuracy and prediction depends upon the network and the architecture used for creating the model.
 
 
 I would like to Thank Mr. Vimal Daga sir for this Intresting task.
